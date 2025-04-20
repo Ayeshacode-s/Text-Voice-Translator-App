@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449295726414",
+    "project_id": "voice-text-5b97a",
+    "storage_bucket": "voice-text-5b97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449295726414:android:056f0000400e788146901f",
+        "android_client_info": {
+          "package_name": "com.example.voicetext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHbp0tIsAs8cdjvhsBo5pXVGYw0dkL6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
